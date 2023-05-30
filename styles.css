@@ -1,12 +1,11 @@
 
 /* Your CSS Code here. */
-.main-box{
+.holder{
 	display:flex;
 	justify-content: space-between;
 	flex-wrap: wrap;
 }
 .box1, .box2, .box3{
-	border: 1px solid;
 	height: 100px;
 	width:100px;
 }
